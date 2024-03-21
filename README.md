@@ -64,8 +64,6 @@ An fully interactive and responsive product page for E-Commerce websites with mo
 <img src="https://user-images.githubusercontent.com/77394697/169912365-4b4a8817-05ba-4ac7-87d6-368f31d29062.jpg" width="500" alt="desktop design" />
 <img src="https://user-images.githubusercontent.com/77394697/169912372-39053227-da84-4e68-9077-a8bce4462204.jpg" width="500" alt="desktop design" />
 
-## 📍 Challenge link:
-You can check the challenge out from [HERE](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
 
 ## 📍 Developer:
-The challenge is coded by: ***[Mustafa Salem](https://github.com/moustf)***, a junior web developer.
+The challenge is coded by: ***[Monisha Akter Asha](h[ttps://github.com/moustf](https://github.com/monishaakter)https://github.com/monishaakter)***, a junior web developer.
